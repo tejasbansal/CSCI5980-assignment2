@@ -1,0 +1,4 @@
+flask==2.1.0
+json==0.9.5
+datetime==4.3
+threading==0.1.0
